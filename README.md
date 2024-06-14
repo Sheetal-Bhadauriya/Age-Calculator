@@ -10,4 +10,4 @@ This is a simple web-based Age Calculator using JavaScript to calculate users' a
 ## Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/jubibinu/Web-Based-Age-Calculator.git
+   git clone https://github.com/sheetalbhadoriya/Web-Based-Age-Calculator.git
