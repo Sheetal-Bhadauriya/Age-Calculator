@@ -1,8 +1,6 @@
 # Web-Based Age Calculator
 A web-based Age Calculator using JavaScript to calculate users' ages based on their submitted date of birth.
 
-# Web-Based Age Calculator
-
 This is a simple web-based Age Calculator using JavaScript to calculate users' ages based on their submitted date of birth.
 
 ## Features
